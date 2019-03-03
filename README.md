@@ -6,7 +6,7 @@ Index:
 
 Azure Tools
 => AzureCLI
-=> PowerShell, AzureRM, ARM Templates
+=> AzureRM, ARM Templates
 => cloud-init
 => Terraform
 
@@ -20,7 +20,7 @@ Admin
 => Jenkins
 => Repos
 
-Content
+Content/Apps
 => NodeJS
 => C/C++
 => html 
